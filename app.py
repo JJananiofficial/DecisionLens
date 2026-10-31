@@ -83,7 +83,7 @@ h2 {font-size:1.4rem!important;font-weight:750!important;}
 [data-testid="stCheckbox"] *,[data-testid="stToggle"] * {color:#17243a!important;}
 [data-testid="stFileUploader"] *,[data-testid="stExpander"] * {color:#17243a!important;}
 .hero {
-  background:linear-gradient(115deg,#14233d,#1d3761 58%,#3159a6);
+  background:linear-gradient(115deg,#8FB5FF,#1d3761 58%,#3159a6);
   padding:30px 34px;border-radius:22px;color:white!important;
   margin-bottom:22px;box-shadow:0 12px 30px rgba(28,54,96,.12);
 }
