@@ -83,13 +83,13 @@ h2 {font-size:1.4rem!important;font-weight:750!important;}
 [data-testid="stCheckbox"] *,[data-testid="stToggle"] * {color:#17243a!important;}
 [data-testid="stFileUploader"] *,[data-testid="stExpander"] * {color:#17243a!important;}
 .hero {
-  background:linear-gradient(115deg,#8FB5FF,#1d3761 58%,#3159a6);
+  background:linear-gradient(115deg,#14213d,#1d3761 58%,#3159a6);
   padding:30px 34px;border-radius:22px;color:white!important;
   margin-bottom:22px;box-shadow:0 12px 30px rgba(28,54,96,.12);
 }
 .hero * {color:inherit!important;}
 .hero-kicker {font-size:.72rem;letter-spacing:.14em;font-weight:700;color:#9dbbff!important;text-transform:uppercase;}
-.hero-title {font-family:'Manrope',sans-serif;font-size:2.15rem;font-weight:800;line-height:1.16;letter-spacing:-.04em;color:#fff!important;margin:9px 0;}
+.hero-title {font-family:'Manrope',sans-serif;font-size:2.15rem;font-weight:800;line-height:1.16;letter-spacing:-.04em;color:#8FB5FF!important;margin:9px 0;}
 .hero-copy {color:#d4deee!important;max-width:760px;font-size:.96rem;line-height:1.65;}
 .eyebrow {font-size:.72rem;letter-spacing:.12em;color:#71819a!important;text-transform:uppercase;font-weight:700;}
 .good {background:#eaf8f4;border-left:3px solid #16a085;padding:12px 15px;border-radius:8px;color:#24564d!important;}
