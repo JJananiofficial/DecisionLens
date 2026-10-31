@@ -1,4 +1,4 @@
-# DecisionLens — Advanced Research Edition
+# DecisionLens
 
 DecisionLens is a Streamlit decision-intelligence workspace for comparing predictive models on both statistical quality and business decision value.
 
@@ -96,4 +96,21 @@ Do not commit private, confidential, personal, or licensed datasets. The `.gitig
 
 ## Screenshots
 
-Add your own screenshots of the running application to a `screenshots/` directory and embed them here when ready. Do not include screenshots containing private or identifiable data.
+
+## 📸 Application Screenshots
+
+### 1. Executive Dashboard
+![DecisionLens Executive Dashboard](screenshots/dashboard.png)
+
+### 2. Model Performance Comparison
+![DecisionLens Model Performance](screenshots/model_performance.png)
+
+### 3. Explainable AI – SHAP Analysis
+![DecisionLens Explainability](screenshots/Explainability.png)
+
+### 4. Business Decision Simulator
+![DecisionLens Business Simulator](screenshots/simulator.png)
+
+### 5. Fairness & Subgroup Analysis
+![DecisionLens Fairness Analysis](screenshots/Fairness.png)
+
