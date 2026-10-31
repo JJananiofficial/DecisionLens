@@ -90,7 +90,7 @@ h2 {font-size:1.4rem!important;font-weight:750!important;}
 .hero * {color:inherit!important;}
 .hero-kicker {font-size:.72rem;letter-spacing:.14em;font-weight:700;color:#9dbbff!important;text-transform:uppercase;}
 .hero-title {font-family:'Manrope',sans-serif;font-size:2.15rem;font-weight:800;line-height:1.16;letter-spacing:-.04em;color:#fff!important;margin:9px 0;}
-.hero-copy {color:#8FB5FF!important;max-width:760px;font-size:.96rem;line-height:1.65;}
+.hero-copy {color:#dfeee!important;max-width:760px;font-size:.96rem;line-height:1.65;}
 .eyebrow {font-size:.72rem;letter-spacing:.12em;color:#71819a!important;text-transform:uppercase;font-weight:700;}
 .good {background:#eaf8f4;border-left:3px solid #16a085;padding:12px 15px;border-radius:8px;color:#24564d!important;}
 .small-muted {font-size:.82rem;color:#728198!important;}
