@@ -100,5 +100,5 @@ Potential extensions include additional model families, richer fairness metrics,
 
 ## DecisionLens  
 An independent portfolio project exploring the intersection of predictive analytics, explainable AI and business decision science.
-![DecisionLens Fairness Analysis](screenshots/Fairness.png)
+
 
