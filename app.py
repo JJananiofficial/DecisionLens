@@ -87,7 +87,13 @@ h2 {font-size:1.4rem!important;font-weight:750!important;}
   padding:30px 34px;border-radius:22px;color:white!important;
   margin-bottom:22px;box-shadow:0 12px 30px rgba(28,54,96,.12);
 }
-.hero * {color:inherit!important;}
+.hero * {
+    color: inherit !important;
+}
+.hero .hero-accent {
+    color: #9dbbff !important;
+    display: inline-block;
+}
 .hero-kicker {font-size:.72rem;letter-spacing:.14em;font-weight:700;color:#9dbbff!important;text-transform:uppercase;}
 .hero-title {font-family:'Manrope',sans-serif;font-size:2.15rem;font-weight:800;line-height:1.16;letter-spacing:-.04em;color:#fff!important;margin:9px 0;}
 .hero-copy {color:#dfeee!important;max-width:760px;font-size:.96rem;line-height:1.65;}
