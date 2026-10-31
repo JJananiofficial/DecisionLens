@@ -94,23 +94,11 @@ PYTHONPATH=. pytest -q
 
 Do not commit private, confidential, personal, or licensed datasets. The `.gitignore` excludes common local data files and Streamlit secrets by default. Use synthetic data for the public demonstration unless you have permission to publish a dataset.
 
-## Screenshots
+## Future development
 
+Potential extensions include additional model families, richer fairness metrics, model monitoring, cost-sensitive optimisation under uncertainty and deployment-oriented model governance.
 
-## 📸 Application Screenshots
-
-### 1. Executive Dashboard
-![DecisionLens Executive Dashboard](screenshots/dashboard.png)
-
-### 2. Model Performance Comparison
-![DecisionLens Model Performance](screenshots/model_performance.png)
-
-### 3. Explainable AI – SHAP Analysis
-![DecisionLens Explainability](screenshots/Explainability.png)
-
-### 4. Business Decision Simulator
-![DecisionLens Business Simulator](screenshots/simulator.png)
-
-### 5. Fairness & Subgroup Analysis
+## DecisionLens  
+An independent portfolio project exploring the intersection of predictive analytics, explainable AI and business decision science.
 ![DecisionLens Fairness Analysis](screenshots/Fairness.png)
 
